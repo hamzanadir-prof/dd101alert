@@ -1,0 +1,27 @@
+.alert-info{
+    background-color: lightskyblue;
+    padding: 20px;
+    border-left: 10px solid blue;
+    border-radius: 6px;
+}
+
+.alert-danger{
+    background-color: lightcoral;
+    padding: 20px;
+    border-left: 10px solid red;
+    border-radius: 6px;
+}
+
+.alert-success{
+    background-color: lightgreen;
+    padding: 20px;
+    border-left: 10px solid green;
+    border-radius: 6px;
+}
+
+.alert-warning{
+    background-color: lightsalmon;
+    padding: 20px;
+    border-left: 10px solid orangered;
+    border-radius: 6px;
+}
